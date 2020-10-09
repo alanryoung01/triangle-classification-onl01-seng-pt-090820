@@ -7,7 +7,7 @@ class Triangle
     @c = c
   end
 
-  def type
+  def kind
     valid
     if a == b && b == c
       :equilateral
