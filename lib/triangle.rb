@@ -7,7 +7,7 @@ class Triangle
     @c = c
   end
 
-  def type 
+  def type
 
   end
 
